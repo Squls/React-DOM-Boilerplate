@@ -1,7 +1,5 @@
 # React-DOM-Boilerplate
-Set up of React and React DOM for website development. 
-
-It includes configurations for Webpack and Babel as well as example components.
+Set up of React and React DOM for website development including configurations for Webpack and Babel.
 
 ## Set Up
 
